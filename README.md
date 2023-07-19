@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hi there, I'm Emin Haziyev! 👋
 
-<!--
-**EminHaziyev/EminHaziyev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm a passionate software developer with a focus on back-end development. I enjoy creating meaningful and efficient solutions through programming. My tech stack includes Node.js, JavaScript, MongoDB and etc. I am interested in web development, AI, and machine learning, and I strive to contribute to making the world a better place through my work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+- **Languages:** JavaScript (Node.js), Python, C++, Dart, Java
+- **Web Development:** HTML, CSS, EJS, Express.js
+- **Databases:** MongoDB
+- **Version Control:** Git, GitHub
+
+## 💼 Experience
+- CEO at several startups
+
+## 📫 Let's Connect
+- LinkedIn: [EminHaziyev](https://www.linkedin.com/in/eminhaziyev/)
+
+
+Feel free to reach out if you'd like to collaborate on exciting projects or discuss anything related to software development, web development, or machine learning. Let's make the world a better place together!
+
