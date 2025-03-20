@@ -15,6 +15,4 @@ I'm a passionate software developer with a focus on back-end development. I enjo
 ## 📫 Let's Connect
 - LinkedIn: [EminHaziyev](https://www.linkedin.com/in/eminhaziyev/)
 
-<iframe src="https://actdoor.onrender.com/api/getActivity/{username}?type=rectangle&theme=dark" width="110px" height="340px" frameborder="0"></iframe>
-Feel free to reach out if you'd like to collaborate on exciting projects or discuss anything related to software development, web development, or machine learning. Let's make the world a better place together!
-
+<img src=https://actdoor.onrender.com/api/getActivity/{username}?type=rectangle&theme=dark">
