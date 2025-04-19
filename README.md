@@ -5,8 +5,7 @@ I'm Emin Haziyev, a passionate backend developer skilled in building scalable an
 
 What sets me apart is my unique blend of technical expertise, leadership experience, and a knack for solving complex challenges. Beyond coding, I thrive on teamwork and continuously push boundaries to deliver impactful solutions. Let's connect and discuss how we can build the future together!
 
-## 💼 Experience
-- CEO at several startups
+
 
 ## 📫 Let's Connect
 
