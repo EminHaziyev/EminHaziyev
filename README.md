@@ -9,4 +9,6 @@ What sets me apart is my unique blend of technical expertise, leadership experie
 
 ## 📫 Let's Connect
 
-- LinkedIn: [EminHaziyev](https://www.linkedin.com/in/eminhaziyev/)
+- Website: [emin.works](https://emin.works/)
+- LinkedIn: [linkedin.emin.works](https://linkedin.emin.works/)
+- CV: [cv.emin.works](https://cv.emin.works/)
