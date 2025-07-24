@@ -5,6 +5,9 @@ I'm Emin Haziyev, a passionate backend developer skilled in building scalable an
 
 What sets me apart is my unique blend of technical expertise, leadership experience, and a knack for solving complex challenges. Beyond coding, I thrive on teamwork and continuously push boundaries to deliver impactful solutions. Let's connect and discuss how we can build the future together!
 
+## VS Code Activity
+Check my VS Code activity. ActivityDoor is my side project that helps you show your vs code activity everywhere! [Check the project](https://actdoor.onrender.com)
+![](https://actdoor.onrender.com/api/getActivity/EminHaziyev?type=github&theme=dark)
 
 
 ## 📫 Let's Connect
