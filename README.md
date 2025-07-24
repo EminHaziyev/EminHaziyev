@@ -7,6 +7,8 @@ What sets me apart is my unique blend of technical expertise, leadership experie
 
 ## VS Code Activity
 Check my VS Code activity. ActivityDoor is my side project that helps you show your vs code activity everywhere! [Check the project](https://actdoor.onrender.com)
+‎‎‎‎‎‎‎‎ㅤ
+
 ![](https://actdoor.onrender.com/api/getActivity/EminHaziyev?type=github&theme=dark)
 
 
