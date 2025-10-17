@@ -14,6 +14,6 @@ Check my VS Code activity. ActivityDoor is my side project that helps you show y
 
 ## 📫 Let's Connect
 
-- Website: [emin.works](https://emin.works/)
-- LinkedIn: [linkedin.emin.works](https://linkedin.emin.works/)
-- CV: [cv.emin.works](https://cv.emin.works/)
+- Website: [hazi.one](https://hazi.one/)
+- LinkedIn: [linkedin.hazi.one](https://linkedin.hazi.one/)
+- CV: [cv.hazi.one](https://cv.hazi.one/)
