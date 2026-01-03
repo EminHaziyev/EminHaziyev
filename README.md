@@ -17,3 +17,4 @@ Check my VS Code activity. ActivityDoor is my side project that helps you show y
 - Website: [hazi.one](https://hazi.one/)
 - LinkedIn: [linkedin.hazi.one](https://linkedin.hazi.one/)
 - CV: [cv.hazi.one](https://cv.hazi.one/)
+- Mail: [emin@hazi.one](mailto:emin@hazi.one)
