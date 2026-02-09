@@ -1,9 +1,10 @@
 # Hi there, I'm Emin Haziyev! 👋
 
+I’m a multidisciplinary developer shaping digital experiences that linger in memory. My work lives at the intersection of functional engineering and thoughtful design, where structure and aesthetics quietly collaborate.
 
-I'm Emin Haziyev, a passionate backend developer skilled in building scalable and high-performance server-side applications with Node.js and MongoDB. My journey includes leading technical innovations like creating an AR-based 3D environment and developing AI-powered tools for paralyzed individuals, achievements that earned recognition in prestigious competitions like "Sabahın Alimləri" and "COP29 Hackathon."
+Grounded in computer science and inspired by the arts, I approach every project with a broadened lens. To me, code isn’t just a utility; it’s a medium for crafting emotion, clarity, and meaning.
 
-What sets me apart is my unique blend of technical expertise, leadership experience, and a knack for solving complex challenges. Beyond coding, I thrive on teamwork and continuously push boundaries to deliver impactful solutions. Let's connect and discuss how we can build the future together!
+Outside the editor, you’ll find me deep in a good book 📚, sharpening my focus through judo 🥋, chasing clarity on a run 🏃‍♂️, or recharging outdoors 🌳 where ideas tend to arrive unannounced.
 
 ## VS Code Activity
 Check my VS Code activity. ActivityDoor is my side project that helps you show your vs code activity everywhere! [Check the project](https://actdoor.onrender.com)
