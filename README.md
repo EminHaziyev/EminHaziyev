@@ -6,11 +6,8 @@ Grounded in computer science and inspired by the arts, I approach every project 
 
 Outside the editor, you’ll find me deep in a good book 📚, sharpening my focus through judo 🥋, chasing clarity on a run 🏃‍♂️, or recharging outdoors 🌳 where ideas tend to arrive unannounced.
 
-## VS Code Activity
-Check my VS Code activity. ActivityDoor is my side project that helps you show your vs code activity everywhere! [Check the project](https://actdoor.onrender.com)
-‎‎‎‎‎‎‎‎ㅤ
-
-![](https://actdoor.onrender.com/api/getActivity/EminHaziyev?type=github&theme=dark)
+## devlab.llc
+![](https://badges.devlab.llc/EminHaziyev)
 
 
 ## 📫 Let's Connect
